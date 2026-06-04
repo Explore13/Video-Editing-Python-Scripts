@@ -94,6 +94,6 @@ def process_videos_in_folder(input_folder, output_folder):
     print(f"All videos processed. Total time taken: {total_time:.2f} seconds")
 
 # Example usage:
-input_folder = 'E:/savedVideo/2022'
-output_folder = 'E:/editedVideos/2014'
+input_folder = 'E:/savedVideo/2020'
+output_folder = 'E:/editedVideos/2020'
 process_videos_in_folder(input_folder, output_folder)

@@ -50,8 +50,8 @@ def process_videos(input_folder, output_folder, cut_start, cut_end):
             cut_video(input_path, output_path, cut_start, cut_end)
 
 # Define parameters
-input_folder = 'G:/EDITED\Math/2022'
-output_folder = 'E:/savedVideo/2022'
+input_folder = 'G:/EDITED/Math/2020'
+output_folder = 'E:/savedVideo/2020'
 cut_start = 0      # Start time of the portion to cut (in seconds)
 cut_end = 4.2      # End time of the portion to cut (in seconds)
 
